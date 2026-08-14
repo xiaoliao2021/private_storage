@@ -1,1 +1,12 @@
-{"update_ms": 1727620838636313, "val": "1i1FlRhLwvtK/VLm/LHG+daeLKZ+XvKo7RlJ2P7vVZ5YiaG8dBvMhw=="}
+{
+  "app": "miniapp-demo",
+  "updatedAt": "2026-08-14T11:12:17.890Z",
+  "source": "wechat-miniprogram",
+  "entries": [
+    {
+      "id": 1786705404054,
+      "text": "{}",
+      "createdAt": 1786705404054
+    }
+  ]
+}
